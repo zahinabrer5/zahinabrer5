@@ -3,10 +3,8 @@
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me
-  - Email: mailto:zahinabrer5@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/zahinabrer/
-  - Discord: MilkDud#1019
-  - Instagram: zahin.05
+  - [zahinabrer5@gmail.com](mailto:zahinabrer5@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/zahinabrer/)
 
 <!---
 zahinabrer5/zahinabrer5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
