@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zahinabrer5
+- 👋 Hi, I’m Zahin
 - 👀 I’m interested in Java & Software Development
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on software projects
