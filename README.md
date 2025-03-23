@@ -26,5 +26,8 @@ Let’s connect if you want to team up or talk business. Just don’t ask me to 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🌿 Barnsley Fern I've Generated:
+<img src="https://i.imgur.com/iZ47MaJ.gif" alt="Barnsley Fern that I've generated" align="right" width="100%">
+
 ---
 [![](https://visitcount.itsvg.in/api?id=zahinabrer5&icon=0&color=0)](https://visitcount.itsvg.in)
