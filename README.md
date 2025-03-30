@@ -1,16 +1,14 @@
 # 💫 About Me:
 Hi there! I'm a Computer Science student at the University of Ottawa, passionate about problem solving and software engineering. My toolkit includes Java, Spring Boot, Python and Django, among several other technologies.<br>
 
-Currently Learning: Docker, Angular and Rust.<br>
-
-Want to Learn: Selenium, Playwrite, Android, C, Go, Machine Learning, Vue, React and Svelte.<br>
+Want to Learn: Docker, Angular and Rust, Selenium, Playwrite, Android, C, Go, Machine Learning, Vue, React and Svelte.<br>
 
 Let’s connect if you want to team up or talk business. Just don’t ask me to fix your printer — I almost broke mine!<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahinabrer5&label=Profile%20views&color=0e75b6&style=flat" alt="zahinabrer5" /> </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zahinabrer5-hasan-siddik) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zahinabrer) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/zahinabrer/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/zahinabrer5)
 
