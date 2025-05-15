@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi there! I'm a Computer Science student at the University of Ottawa, passionate about problem solving and software engineering. My toolkit includes Java, Spring Boot, Python and Django, among several other technologies.<br>
+Hi there! I'm a Computer Science student at the University of Ottawa, passionate about problem solving and software engineering. My toolkit includes Java, Spring Boot, Angular, Python and Django, among several other technologies.<br>
 
-Want to Learn: Docker, Angular, Rust, Selenium, Playwrite, Android, C, Go, Machine Learning, Vue, React and Svelte.<br>
+Want to Learn: Docker, GraalVM, Rust, Selenium, Playwrite, Android, C, Go, Machine Learning, Vue, React and Svelte.<br>
 
 Let’s connect if you want to team up or talk business. Just don’t ask me to fix your printer — I almost broke mine!<br>
 
