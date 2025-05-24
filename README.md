@@ -5,8 +5,7 @@ Want to Learn: Docker, GraalVM, Rust, Selenium, Playwrite, Android, C, Go, Machi
 
 Let’s connect if you want to team up or talk business. Just don’t ask me to fix your printer — I almost broke mine!<br>
 
-**NOTE**: I added a GPG key to my Git / GitHub on `2025-05-09` so if you see a commit without the `[Verified]` badge after that date, know that it wasn't made by me (and please notify me if you do find that)! Here's the public key:<br>
-[0xF54C9DE7C5E13312 on keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=0xF54C9DE7C5E13312&fingerprint=on&op=index) (you may have to refresh the page a few times).<br>
+**NOTE**: I added a GPG key to my Git / GitHub on `2025-05-09` so if you see a commit without the `[Verified]` badge after that date, know that it wasn't made by me (and please notify me if you do find that)!<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahinabrer5&label=Profile%20views&color=0e75b6&style=flat" alt="zahinabrer5" /> </p>
 
