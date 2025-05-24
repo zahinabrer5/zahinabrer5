@@ -3,7 +3,7 @@ Hi there! I'm a Computer Science student at the University of Ottawa, passionate
 
 Want to Learn: Docker, GraalVM, Rust, Selenium, Playwrite, Android, C, Go, Machine Learning, Vue, React and Svelte.<br>
 
-Let’s connect if you want to team up or talk business. Just don’t ask me to fix your printer — I almost broke mine!<br>
+Let’s connect if you want to team up or talk business.<br>
 
 **NOTE**: I added a GPG key to my Git / GitHub on `2025-05-09` so if you see a commit without the `[Verified]` badge after that date, know that it wasn't made by me (and please notify me if you do find that)!<br>
 
