@@ -1,11 +1,12 @@
-# About Me
-Hi there! I'm a Computer Science student at the University of Ottawa, passionate about problem solving and software engineering. My toolkit includes Java, Spring Boot, Laravel, Angular, Python and Django, among several other technologies.<br>
+# 🪪 About Me
+Hi there! I'm a Computer Science student at the University of Ottawa, passionate about **problem solving and software engineering**.<br>
+My toolkit includes **Java, Spring Boot, Laravel, Angular, Python and Django**, among several other technologies.<br>
 
-Want to Learn: Docker, GraalVM, Rust, Selenium, Playwrite, Android, C, Go, Machine Learning, Vue, React and Svelte.<br>
+Want to Learn (no particular order): *Docker, GraalVM, Rust, Selenium, Playwrite, Android, C, Go, Haskell, Machine Learning, Vue, React and Svelte.*<br>
 
-Let’s connect if you want to team up or talk business.<br>
+Let’s [connect](https://linkedin.com/in/zahinabrer5) if you want to team up or talk business.<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahinabrer5&label=Profile%20views&color=0e75b6&style=flat" alt="zahinabrer5" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahinabrer5&label=Profile%20views&color=0e75b6&style=flat" alt="zahinabrer5" /> </p> -->
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zahinabrer) 
@@ -26,7 +27,7 @@ Let’s connect if you want to team up or talk business.<br>
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌿 Barnsley Fern I've Generated:
+## 🌿 Barnsley Fern I've Generated
 <img src="https://i.imgur.com/iZ47MaJ.gif" alt="Barnsley Fern that I've generated" align="right" width="100%">
 
 ---
