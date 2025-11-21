@@ -9,7 +9,6 @@ Let’s [connect](https://linkedin.com/in/zahinabrer5) if you want to team up or
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahinabrer5&label=Profile%20views&color=0e75b6&style=flat" alt="zahinabrer5" /> </p> -->
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zahinabrer) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/zahinabrer/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/zahinabrer5)
 
