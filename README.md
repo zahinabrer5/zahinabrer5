@@ -4,8 +4,6 @@ My toolkit includes **Java, Spring Boot, Laravel, Angular, Python and Django**, 
 
 Want to Learn (no particular order): *Docker, GraalVM, Rust, Selenium, Playwrite, Android, C, Go, Haskell, Machine Learning, Vue, React and Svelte.*<br>
 
-Let’s [connect](https://linkedin.com/in/zahinabrer5) if you want to team up or talk business.<br>
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahinabrer5&label=Profile%20views&color=0e75b6&style=flat" alt="zahinabrer5" /> </p> -->
 
 ## 🌐 Socials
