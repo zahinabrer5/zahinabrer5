@@ -2,7 +2,7 @@
 Hi there! I'm a Computer Science student passionate about **problem solving and software engineering**.<br>
 My toolkit includes **Java, Spring Boot, Laravel, Angular, Python and Django**, among several other technologies.<br>
 
-Want to Learn (no particular order): *C, Machine Learning, Android, Haskell, Docker, Selenium, Playwrite, GraalVM, Vue, React and Svelte.*<br>
+Want to Learn (ordered from most interested to least interested):<br>*C, Machine Learning, Android, Haskell, Docker, Selenium, Playwrite, GraalVM, Vue, React and Svelte.*<br>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahinabrer5&label=Profile%20views&color=0e75b6&style=flat" alt="zahinabrer5" /> </p> -->
 
