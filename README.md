@@ -22,8 +22,9 @@ Want to Learn (ordered from most interested to least interested):<br>*C, Machine
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zahinabrer5&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Disable random dev quote because I don't want to represent people I might not like / agree with on my profile -->
+<!--## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 
 ## 🌿 Barnsley Fern I've Generated
 <img src="https://i.imgur.com/iZ47MaJ.gif" alt="Barnsley Fern that I've generated" align="right" width="100%">
