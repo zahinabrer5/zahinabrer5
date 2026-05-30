@@ -1,5 +1,6 @@
-# Permanently moved my personal repositories to my own [Git server](https://git.abdullahzubair.tech/abdullah). Corresponding repositories here have been archived.
+# Permanently moved my *personal* repositories to my own [Git server](https://git.abdullahzubair.tech/abdullah). Corresponding repositories here have been archived.
 # :point_right: https://git.abdullahzubair.tech/abdullah :point_left:
+# For the time being, I will continue to contribute here on GitHub.
 
 <!--
 # 🪪 About Me
