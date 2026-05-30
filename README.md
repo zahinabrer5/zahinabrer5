@@ -1,4 +1,4 @@
-# Permanently moved my personal repositories to my [own Git server](https://git.abdullahzubair.tech/abdullah). Corresponding repositories here have been archived.
+# Permanently moved my personal repositories to my own [Git server](https://git.abdullahzubair.tech/abdullah). Corresponding repositories here have been archived.
 
 # 🪪 About Me
 Hi there! I'm a Computer Science student passionate about **problem solving and software engineering**.<br>
